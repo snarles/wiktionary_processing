@@ -1,12 +1,12 @@
 """Build a 4-column gloss (writing, reading, meaning, level) of JLPT vocabulary.
 
 Reads:
-  - languages/Japanese/jlpt_source/n{1..5}.csv  (stephenmk/yomitan-jlpt-vocab)
+  - jlpt/source/n{1..5}.csv  (stephenmk/yomitan-jlpt-vocab)
   - languages/Japanese/wiktextract-data.jsonl
 
 Writes:
-  - languages/Japanese/jlpt_gloss.tsv
-  - languages/Japanese/jlpt_gloss.meta.json
+  - jlpt/gloss.tsv
+  - jlpt/gloss.meta.json
 
 One row per JLPT (writing, reading) pair. Meaning is taken from wiktextract
 senses[].glosses when an entry with a matching reading is found; otherwise it
@@ -25,10 +25,10 @@ from collections import defaultdict
 from typing import Optional
 
 REPO = Path(__file__).resolve().parent
-JLPT_DIR = REPO / "languages" / "Japanese" / "jlpt_source"
+JLPT_DIR = REPO / "jlpt" / "source"
 WIKT_PATH = REPO / "languages" / "Japanese" / "wiktextract-data.jsonl"
-OUT_TSV = REPO / "languages" / "Japanese" / "jlpt_gloss.tsv"
-OUT_META = REPO / "languages" / "Japanese" / "jlpt_gloss.meta.json"
+OUT_TSV = REPO / "jlpt" / "gloss.tsv"
+OUT_META = REPO / "jlpt" / "gloss.meta.json"
 
 
 def kata_to_hira(s: str) -> str:

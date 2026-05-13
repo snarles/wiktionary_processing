@@ -1,0 +1,1414 @@
+{
+  "generated_at": "2026-05-13T19:55:53.574157+00:00",
+  "row_count": 8293,
+  "wiktextract_path": "languages/Japanese/wiktextract-data.jsonl",
+  "jlpt_source": "stephenmk/yomitan-jlpt-vocab (original_data/n{1..5}.csv)",
+  "miss_count": 1139,
+  "miss_breakdown": {
+    "writing-only": 269,
+    "kana-fallback": 379,
+    "fallback-definition": 491
+  },
+  "miss_examples": [
+    {
+      "writing": "明い",
+      "reading": "あかるい",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "朝御飯",
+      "reading": "あさごはん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あさって",
+      "reading": "あさって",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "足",
+      "reading": "あし",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 3
+    },
+    {
+      "writing": "あそこ",
+      "reading": "あそこ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "暖かい",
+      "reading": "あたたかい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あちら",
+      "reading": "あちら",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "厚い",
+      "reading": "あつい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あっち",
+      "reading": "あっち",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "貴方",
+      "reading": "あなた",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あびる",
+      "reading": "あびる",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あまり",
+      "reading": "あまり",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "有る",
+      "reading": "ある",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "いかが",
+      "reading": "いかが",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "池",
+      "reading": "いけ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "いす",
+      "reading": "いす",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "いちばん",
+      "reading": "いちばん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "何時",
+      "reading": "いつ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "嫌",
+      "reading": "いや",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "居る",
+      "reading": "いる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "いろいろ",
+      "reading": "いろいろ",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "歌う",
+      "reading": "うたう",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "煩い",
+      "reading": "うるさい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "英語",
+      "reading": "えいご",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おいしい",
+      "reading": "おいしい",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "大きな",
+      "reading": "おおきな",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おじいさん",
+      "reading": "おじいさん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おじさん",
+      "reading": "おじさん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "遅い",
+      "reading": "おそい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "一昨年",
+      "reading": "おととし",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おなか",
+      "reading": "おなか",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "お兄さん",
+      "reading": "おにいさん",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "お姉さん",
+      "reading": "おねえさん",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おばあさん",
+      "reading": "おばあさん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おまわりさん",
+      "reading": "おまわりさん",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おもしろい",
+      "reading": "おもしろい",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "終る",
+      "reading": "おわる",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "体",
+      "reading": "からだ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 5
+    },
+    {
+      "writing": "河",
+      "reading": "かわ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 3
+    },
+    {
+      "writing": "かわいい",
+      "reading": "かわいい",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "今日",
+      "reading": "きょう",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 4
+    },
+    {
+      "writing": "きれい",
+      "reading": "きれい",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "口",
+      "reading": "くち",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 4
+    },
+    {
+      "writing": "靴",
+      "reading": "くつ",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "暗い",
+      "reading": "くらい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "黒",
+      "reading": "くろ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "此処",
+      "reading": "ここ",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "こちら",
+      "reading": "こちら",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "此方",
+      "reading": "こっち",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "此の",
+      "reading": "この",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "これ",
+      "reading": "これ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "魚",
+      "reading": "さかな",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 5
+    },
+    {
+      "writing": "さ来年",
+      "reading": "さらいねん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "三",
+      "reading": "さん",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 5
+    },
+    {
+      "writing": "四",
+      "reading": "よん",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 7
+    },
+    {
+      "writing": "然し",
+      "reading": "しかし",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "七",
+      "reading": "しち",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 7
+    },
+    {
+      "writing": "十",
+      "reading": "とお",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 8
+    },
+    {
+      "writing": "しょうゆ",
+      "reading": "しょうゆ",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "すぐに",
+      "reading": "すぐに",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "為る",
+      "reading": "する",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ゼロ",
+      "reading": "ぜろ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "其処",
+      "reading": "そこ",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "そちら",
+      "reading": "そちら",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "そっち",
+      "reading": "そっち",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "其の",
+      "reading": "その",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "たくさん",
+      "reading": "たくさん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "建物",
+      "reading": "たてもの",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "たばこ",
+      "reading": "たばこ",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "誰",
+      "reading": "だれ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 4
+    },
+    {
+      "writing": "小さな",
+      "reading": "ちいさな",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ちゃわん",
+      "reading": "ちゃわん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "丁度",
+      "reading": "ちょうど",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "つまらない",
+      "reading": "つまらない",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "出かける",
+      "reading": "でかける",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "出来る",
+      "reading": "できる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "如何",
+      "reading": "どう",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 5
+    },
+    {
+      "writing": "どちら",
+      "reading": "どちら",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "どっち",
+      "reading": "どっち",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "どなた",
+      "reading": "どなた",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "何の",
+      "reading": "どの",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "とり肉",
+      "reading": "とりにく",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "取る",
+      "reading": "とる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "撮る",
+      "reading": "とる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "中",
+      "reading": "なか",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 9
+    },
+    {
+      "writing": "登る",
+      "reading": "のぼる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "飲む",
+      "reading": "のむ",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "初め",
+      "reading": "はじめ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "昼御飯",
+      "reading": "ひるごはん",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "広い",
+      "reading": "ひろい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "欲しい",
+      "reading": "ほしい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "曲る",
+      "reading": "まがる",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "不味い",
+      "reading": "まずい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "又",
+      "reading": "また",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "まだ",
+      "reading": "まだ",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "まっすぐ",
+      "reading": "まっすぐ",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "丸い",
+      "reading": "まるい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "円い",
+      "reading": "まるい",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "皆さん",
+      "reading": "みなさん",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "観る",
+      "reading": "みる",
+      "level": "N5",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "休む",
+      "reading": "やすむ",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "八つ",
+      "reading": "やっつ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "遣る",
+      "reading": "やる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "行く",
+      "reading": "ゆく",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "良く",
+      "reading": "よく",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "四つ",
+      "reading": "よっつ",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "分かる",
+      "reading": "わかる",
+      "level": "N5",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "私",
+      "reading": "わたし",
+      "level": "N5",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 6
+    },
+    {
+      "writing": "あいさつ",
+      "reading": "あいさつ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "間",
+      "reading": "あいだ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 5
+    },
+    {
+      "writing": "あかちゃん",
+      "reading": "あかちゃん",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "上る",
+      "reading": "あがる",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あげる",
+      "reading": "あげる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "集る",
+      "reading": "あつまる",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "以外",
+      "reading": "いがい",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "いじめる",
+      "reading": "いじめる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "いただく",
+      "reading": "いただく",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "上手い",
+      "reading": "うまい",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "うれしい",
+      "reading": "うれしい",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おいでになる",
+      "reading": "おいでになる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おかげ",
+      "reading": "おかげ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おかしい",
+      "reading": "おかしい",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "起す",
+      "reading": "おこす",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "押し入れ",
+      "reading": "おしいれ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "落る",
+      "reading": "おちる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "おつり",
+      "reading": "おつり",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "落す",
+      "reading": "おとす",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "驚く",
+      "reading": "おどろく",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "お見舞い",
+      "reading": "おみまい",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "お礼",
+      "reading": "おれい",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "格好",
+      "reading": "かっこう",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "お金持ち",
+      "reading": "おかねもち",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "彼",
+      "reading": "かれ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 3
+    },
+    {
+      "writing": "彼ら",
+      "reading": "かれら",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "決る",
+      "reading": "きまる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "くださる",
+      "reading": "くださる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "呉れる",
+      "reading": "くれる",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "斯う",
+      "reading": "こう",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "御主人",
+      "reading": "ごしゅじん",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ご存じ",
+      "reading": "ごぞんじ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ごちそう",
+      "reading": "ごちそう",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "塵",
+      "reading": "ごみ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 3
+    },
+    {
+      "writing": "ごらんになる",
+      "reading": "ごらんになる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "これから",
+      "reading": "これから",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "坂",
+      "reading": "さか",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "下る",
+      "reading": "さがる",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "先",
+      "reading": "さっき",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 3
+    },
+    {
+      "writing": "さ来月",
+      "reading": "さらいげつ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "さ来週",
+      "reading": "さらいしゅう",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "しばらく",
+      "reading": "しばらく",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "じゃま",
+      "reading": "じゃま",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ずいぶん",
+      "reading": "ずいぶん",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "凄い",
+      "reading": "すごい",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "すばらしい",
+      "reading": "すばらしい",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "隅",
+      "reading": "すみ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "ぜひ",
+      "reading": "ぜひ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "大抵",
+      "reading": "たいてい",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "楽む",
+      "reading": "たのしむ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "為",
+      "reading": "ため",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 5
+    },
+    {
+      "writing": "だめ",
+      "reading": "だめ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ちっとも",
+      "reading": "ちっとも",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "積もり",
+      "reading": "つもり",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "できるだけ",
+      "reading": "できるだけ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "なるほど",
+      "reading": "なるほど",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "二階建て",
+      "reading": "にかいだて",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "ぬれる",
+      "reading": "ぬれる",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ねだん",
+      "reading": "ねだん",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "ねっしん",
+      "reading": "ねっしん",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "筈",
+      "reading": "はず",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "髭",
+      "reading": "ひげ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "非常に",
+      "reading": "ひじょうに",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "引っ越す",
+      "reading": "ひっこす",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "舟",
+      "reading": "ふね",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "程",
+      "reading": "ほど",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "ほとんど",
+      "reading": "ほとんど",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "まじめ",
+      "reading": "まじめ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "または",
+      "reading": "または",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "周り",
+      "reading": "まわり",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "見つける",
+      "reading": "みつける",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "皆",
+      "reading": "みな",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "もうすぐ",
+      "reading": "もうすぐ",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 0
+    },
+    {
+      "writing": "もちろん",
+      "reading": "もちろん",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "よろしい",
+      "reading": "よろしい",
+      "level": "N4",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "沸かす",
+      "reading": "わかす",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "沸く",
+      "reading": "わく",
+      "level": "N4",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "訳",
+      "reading": "わけ",
+      "level": "N4",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "あいにく",
+      "reading": "あいにく",
+      "level": "N3",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "預ける",
+      "reading": "あずける",
+      "level": "N3",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "与える",
+      "reading": "あたえる",
+      "level": "N3",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あちこち",
+      "reading": "あちこち",
+      "level": "N3",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "油",
+      "reading": "あぶら",
+      "level": "N3",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 2
+    },
+    {
+      "writing": "粗",
+      "reading": "あら",
+      "level": "N3",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あらゆる",
+      "reading": "あらゆる",
+      "level": "N3",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "現す",
+      "reading": "あらわす",
+      "level": "N3",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "或",
+      "reading": "ある",
+      "level": "N3",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "あんまり",
+      "reading": "あんまり",
+      "level": "N3",
+      "source": "fallback-definition",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "言う",
+      "reading": "ゆう",
+      "level": "N3",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "行き",
+      "reading": "いき",
+      "level": "N3",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "行き",
+      "reading": "ゆき",
+      "level": "N3",
+      "source": "kana-fallback",
+      "wiktextract_entries_for_word": 1
+    },
+    {
+      "writing": "息",
+      "reading": "いき",
+      "level": "N3",
+      "source": "writing-only",
+      "wiktextract_entries_for_word": 2
+    }
+  ]
+}
