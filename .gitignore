@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+
+# Generated data — large
+languages/
+put_chunks_here/*
+!put_chunks_here/*.sh
+put_dump_here/raw-wiktextract-data.jsonl
+put_dump_here/raw-wiktextract-data.jsonl.gz
